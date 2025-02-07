@@ -1,7 +1,7 @@
 {
  "docType": "publicKeysRegistry.v1",
- "v": 6,
- "createDt": "2025-02-06T21:30:51",
+ "v": 5,
+ "createDt": "2025-02-07T11:10:34",
  "registry": [
   {
    "sys": "aiocr-llm",
@@ -27,7 +27,15 @@
     "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEA0EAyaeIhndsDUtRxHGWudDNK/4vNWibVkF7LWQ5uK57l2GV+6uj3\nL8jl0O/jMcpXtYb7GB2ER2rHpAgZ5rdmz/AVexdcqVirVbJWOwGFeV86N31pHsjm\nX/fE1CbZcOPlyeKM0HL3GL7OxIjgfE6LyiW9unu58vWJa9uU4ecT7u0mUEQcWyIe\nEbMYd8ayRVfZEPKoxoUE4BoYMHJrRYr9cdYWoJI0pGtUMLlMnP8qab5MdnkJp5Kz\nwszHMswLeX7HROPuNMUymfVRtcOV6Z/1xCA4JB0tzcvhoufHU6TIoO8RHh+g6Ut+\nOAw6PUm+7eyTPredb5g5AJ8Nn8zVQAtrLTczp7L5wp/Ms2syla575bTpgme0bctR\nXfJcK9fU9xRSVTyfUJWDBMyE0oJ6Y9YRCVH8eov+JAppY6aqxN50LXt1zLGSq+cj\nobxBjwezgtP6yvkyik/vZLA/BOXV6NqP1pRCITMaP4jdhKGppEQXiqb3GeCOj6wc\n5ynNh8DTjzHQG1LzoFPYhaZTAvfpYta3LCEw43myOWpKVmQM3F3VPtFKgsx651TF\nXCuW5q44mqTUdYKyd2/G9kn3R4gzookfRhzhMehRwaiFNuUeFTGkuBXunFMcMLse\n4xhpBb7YDOR5frjc5ylM8QqnBsD1jGeyfIj07Zw869iDUtfD6SETgfMCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n",
     "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEA0EAyaeIhndsDUtRxHGWudDNK/4vNWibVkF7LWQ5uK57l2GV+6uj3\nL8jl0O/jMcpXtYb7GB2ER2rHpAgZ5rdmz/AVexdcqVirVbJWOwGFeV86N31pHsjm\nX/fE1CbZcOPlyeKM0HL3GL7OxIjgfE6LyiW9unu58vWJa9uU4ecT7u0mUEQcWyIe\nEbMYd8ayRVfZEPKoxoUE4BoYMHJrRYr9cdYWoJI0pGtUMLlMnP8qab5MdnkJp5Kz\nwszHMswLeX7HROPuNMUymfVRtcOV6Z/1xCA4JB0tzcvhoufHU6TIoO8RHh+g6Ut+\nOAw6PUm+7eyTPredb5g5AJ8Nn8zVQAtrLTczp7L5wp/Ms2syla575bTpgme0bctR\nXfJcK9fU9xRSVTyfUJWDBMyE0oJ6Y9YRCVH8eov+JAppY6aqxN50LXt1zLGSq+cj\nobxBjwezgtP6yvkyik/vZLA/BOXV6NqP1pRCITMaP4jdhKGppEQXiqb3GeCOj6wc\n5ynNh8DTjzHQG1LzoFPYhaZTAvfpYta3LCEw43myOWpKVmQM3F3VPtFKgsx651TF\nXCuW5q44mqTUdYKyd2/G9kn3R4gzookfRhzhMehRwaiFNuUeFTGkuBXunFMcMLse\n4xhpBb7YDOR5frjc5ylM8QqnBsD1jGeyfIj07Zw869iDUtfD6SETgfMCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
    ]
+  },
+  {
+   "sys": "cargoClip",
+   "env": "staging",
+   "remark": "cargoClip (staging)",
+   "publicKeys": [
+    "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAtoFPKQ4KPO8qCGWHUn5LO3TpMDgEUBZSsZw36dUXm01EL+cUlhmp\n/eeItBKRuQYiBwrL7zy3GsQ7FEhdzUQ+fmCejyk3VjIDy00ceXyaSsB13tLyv6wP\n/oI+ijfQiXGD1Lj4nszu+WIQvu+HYGdElEpt1unnoMRvTQdGJ9U6S36BMlqFbENw\nt0vD76u68eUYBKCINUcDB71NY64KPv6M3+TFQi9ETQ3hYXYTg5Vxjt+OoRcNVt0L\nm15ZclrWObgmtCS0RRDizYtFcyjiOP6KMkJ9Mgsy2cYsLJSgCkirYLZu755a+iAY\n3ze4g+UPD4w0yaboheEt0Co+RbhgkBbJWibhE9Q9BSoM9yMJ0BuAS+BaAD5yeArx\nbbOMpD6ia2pNZ/HY9mfUHZCF0IWG8V+Zc8+3dri+l4ZutHt8WoqlKlR7F6vgr3XK\nHYReFVK6LtooqCqQoucbOeyIxtrXrG2M0PdPk3UmGUQTO/2ZdIJdEHALbQYWbD6Z\nAS53xn1HdIp3sglA7qPUlW5ekz54V7SeGrgk3bSucl7beepsFD4tZGz75jFto4H4\nBXnF2QoqKmbNo7aWr1Lf4U/O3VnXoMSF/kJ3Dvkilh1JeBoXx3S9QlKWPTuIoD8a\nQAj6WTnJvY0xsFuTRLaD0HNxsrdXwHh9wUlEVh/jCZqlPFKZZ5JB10UCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
+   ]
   }
  ],
- "checksum": "3e177436799ae5c8da3f556bd99ed4a69cf7810abf21e2f3a78a301216ef7848"
+ "checksum": "07f4848e2b9e76b672aae18f40262aeff02919d26bc86dc112017a399c505be1"
 }
