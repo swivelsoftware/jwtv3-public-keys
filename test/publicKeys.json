@@ -1,7 +1,7 @@
 {
  "docType": "publicKeysRegistry.v1",
- "v": 10,
- "createDt": "2025-02-09T15:38:04",
+ "v": 11,
+ "createDt": "2025-02-09T15:49:29",
  "registry": [
   {
    "sys": "aiocr-llm",
@@ -37,5 +37,5 @@
    ]
   }
  ],
- "checksum": "5845655af8da0d4e80c2db757bd51d2c89f68f3a11120c6b804fcdb5d021e272"
+ "checksum": "cc937d4c1542b7e14e534ecedda45f662c928e23b42711cdff75b319c9793803"
 }
