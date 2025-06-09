@@ -1,7 +1,7 @@
 {
  "docType": "publicKeysRegistry.v1",
- "v": 23,
- "createDt": "2025-02-17T11:02:52",
+ "v": 25,
+ "createDt": "2025-06-09T20:31:38",
  "registry": [
   {
    "sys": "aiocr-llm",
@@ -36,6 +36,14 @@
    ]
   },
   {
+   "sys": "one-dms",
+   "env": "dev",
+   "remark": "One DMS (dev)",
+   "publicKeys": [
+    "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAq8svMUlVnhxtnt/BkFXaURiyhk+Hs18vzw8tUeKHoYxiLYOPJrsY\nJF0suDhXQx/Hi2c0OhG8+knLp1QIfWs1Un9IeCZ+i8Fuh9MznrzGNZSoEF+wIhxN\nUKYKgT4pf1LmWJTcLoYlWnvdNkSy8SwwEtPEdj4+CEx+tkXp9v8nku2RlgbKyJd4\nx55wAmoqo3rAWCawhyr1KUPY2fanFM374DsznQWmX508xS+KN1z932A/Glk35zOH\nwlgu0eI1Mo45/sEDhlcTNsTLfCEIN2fsmkUzHvjOOvJIItUn1ynuuQa9dAJ94mwb\nJpvw0syZMe8rLm3ajdiVpLltWv0zNV/RbpBM1n6gb8QdYkDZvBv4dKfR7yZXKCl9\nQVtJM37ZfjBSWLTr7CbnkRns1tKd09UdT2Tg3KUMo94NoOBIRl75lfZofRHoQfkr\nKSOJWqLSGt3XJj00joPeH5e6g8CsIRnnRIeP16ogOiOXZ4IXhrt5jnyKPknhy4+0\ni2dP87VEMzLSDDnla9DtdfxlrFOO1RmkcIqd2qOW/2rDUdE/S2sUQ0+F1h658Mh/\nzDW1/3SicKYJmtYBOXPBa7EZmSkHUketMVov+V5GhyJqZfUhPznEqVicLaiTEmnk\nGfK2dRAoeLfiwcC+wuJAeTIMtv4+/1pPPRve0v65KALZmkMiPGDVozkCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
+   ]
+  },
+  {
    "sys": "swivelCommonTest",
    "env": "prod",
    "remark": "Swivel Common Library Test Key (prod)",
@@ -62,5 +70,5 @@
    ]
   }
  ],
- "checksum": "4d72397731c1c7b09c10a5147b40fe516d0aa21f0a07e1b98d8c2d2e2125db72"
+ "checksum": "9e054a4c9cd3355c0b8a8d38310ffebe1ae9991925a77758af12e9ecf2943660"
 }
