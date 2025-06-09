@@ -1,7 +1,7 @@
 {
  "docType": "publicKeysRegistry.v1",
- "v": 25,
- "createDt": "2025-06-09T20:31:38",
+ "v": 26,
+ "createDt": "2025-06-10T00:06:53",
  "registry": [
   {
    "sys": "aiocr-llm",
@@ -25,6 +25,38 @@
    "remark": "aiocr-llm (UAT)",
    "publicKeys": [
     "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEA0EAyaeIhndsDUtRxHGWudDNK/4vNWibVkF7LWQ5uK57l2GV+6uj3\nL8jl0O/jMcpXtYb7GB2ER2rHpAgZ5rdmz/AVexdcqVirVbJWOwGFeV86N31pHsjm\nX/fE1CbZcOPlyeKM0HL3GL7OxIjgfE6LyiW9unu58vWJa9uU4ecT7u0mUEQcWyIe\nEbMYd8ayRVfZEPKoxoUE4BoYMHJrRYr9cdYWoJI0pGtUMLlMnP8qab5MdnkJp5Kz\nwszHMswLeX7HROPuNMUymfVRtcOV6Z/1xCA4JB0tzcvhoufHU6TIoO8RHh+g6Ut+\nOAw6PUm+7eyTPredb5g5AJ8Nn8zVQAtrLTczp7L5wp/Ms2syla575bTpgme0bctR\nXfJcK9fU9xRSVTyfUJWDBMyE0oJ6Y9YRCVH8eov+JAppY6aqxN50LXt1zLGSq+cj\nobxBjwezgtP6yvkyik/vZLA/BOXV6NqP1pRCITMaP4jdhKGppEQXiqb3GeCOj6wc\n5ynNh8DTjzHQG1LzoFPYhaZTAvfpYta3LCEw43myOWpKVmQM3F3VPtFKgsx651TF\nXCuW5q44mqTUdYKyd2/G9kn3R4gzookfRhzhMehRwaiFNuUeFTGkuBXunFMcMLse\n4xhpBb7YDOR5frjc5ylM8QqnBsD1jGeyfIj07Zw869iDUtfD6SETgfMCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
+   ]
+  },
+  {
+   "sys": "aiocr-web",
+   "env": "dev",
+   "remark": "aiocr-web (dev)",
+   "publicKeys": [
+    "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAy1B4ilPn2bJLx4mFsRa3Xf7543LExk8F7OA223l1t1eHmOEvTT90\nAX+8spIqEGWBVyG5MlZgd7hB6VFXAiEtcEiJg08pcfa1wt5b05WmdUFtCb+ve8hf\nx/WIK60+7sxSGieqygn1bnL2d4DdqS4FBDudzjNn+c46TEZbxVRrrvbgTmdddsaN\nc3Fjt+dgf4qRaOy8qaeY3BcZ/DxdoimDueUAnbUyZQ16G0mLBUEjqPw3usTvU80H\nSuvDHonNdPf4Iz3uR88KY/1Tmzrfapdb0swTfBlPssZxCiwulPgnIjRyg/OqnY0Y\noE9gr65kGpQlo7OYRSr91WSclxPInIxKid4CjoH9SDnSS0OiAb9+7UxynHH1tLqc\nRTsR/zFlETT0gHCGqqYT1N09q+qMpAyj9/3ToNsTjXu57knMt3XecGvDtPep5pjy\ns1tXb8ZN3liaDsT/ApMfmKAlre+weWOxDt0x0iZWKJZWFk7gLSdONzpSMC837Sfg\n99tjekekr1ybTfBqyM/WRKOCpI5x1Z0ypaTOTxfnJtjWlTytqnIxCG3E/sWhW4cj\nbgKHEwHx4gOTUlhCzocHZdiHB78RqVGeGKmf+MW+xMn4dv0LG/OPfk4NXB6TmJwG\nSCaeMpVkZYCSB2fADNhMPMGCwlpG0Zkluth20AttGsxiXF8Opvmc2dUCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
+   ]
+  },
+  {
+   "sys": "aiocr-web",
+   "env": "prod",
+   "remark": "aiocr-web (prod)",
+   "publicKeys": [
+    "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEA4Jy+6Amxy9Gahvj5CgOjiWkHCPAejVVCeGTjTIXXip7h4pE5C2GV\nMoav1CGLTP//IAHG70cYW5Wzug8UcERm2mCDGe52n6FY0xDcb4C7LGzlv36mncpx\nDBCsAJohYqX0VPF9zY3zcJMYt2YF8H3pFyl3c27CxudS1dWoR+ye1/QOvchP2l3W\n77P+GuTdjVgaLyJIQ5eQRbl74oVPkLqHgiBOZFkwpUUoFSQfmwsToYYf1sSMM4BX\nfluhVblbaB3mvIAQKPhAGDGSqT3T28vIMjuZimJpldrwj0meA7a5uWxhHlmlvngc\nn++GjWG4QbYBM7ncQ6foPt5/8p1JOSPsDCJ5sYWFVTdaP9/EuhsjbB2VlXXtEb3O\niAAkx8IY3HgmsjFL4tlyLZxRuvCblTQv7bt1EpvbQpAW2zmiWR0+SVRLDLWe4+U4\ncIoNrC8m0Moixw5qKT9WtfavPiZ91By+ks0POTEMNbi5n5f7mR8lZ1QpSkNrYsT1\nxBXwtMtlVqmKVdVWYJZOSop6s/fmm3wXGxYx048TXuiiJlin3TaG+NFlYqdNLHfE\nZNxzEbXCXivMIlVlFdbIuhwI9DYgtuRjfHqqEhML2z8Y/J5OubWwxknmRgZxm1v9\nLhOyPlpXkvtjWJsvzCst597M004t4hRKKGBNomNvI02U0Brl5iKZjp8CAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
+   ]
+  },
+  {
+   "sys": "aiocr-web",
+   "env": "staging",
+   "remark": "aiocr-web (staging)",
+   "publicKeys": [
+    "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAtKMNCcENKfumVWM9wswuE44CrRzzf6fk+wrzozHKsaV9w8LS+3lU\n92HnNSu/b4xzbMQcJoxs3PVSc3g8GQqs/2wQ+j5DAO1kbc+9u/m2xCAaKIQeRqhU\nEF/vzTceuPZtf7oAQIkY+nYQKapPT+HMNv0+2/SIfJUamWXiwt7DcnXRVtpl1Qx5\ndJME9OHIdZmwI6W+diTQtREJJ9Inv7aoKvwl0UjHWuc5adskyt4fO7RZUKj15x7L\ntNCClldJLZdshrrnRXHaB60A1a3RhtMBjD/mAlA3MrbKvYv2G7lH7Zafzmxc1Itn\nsEbsaR0frIJvHlNZCXaUDGxbuHFqQmCYWzSIBpUHfJ3ejkYDDJIZpFpT5wOQQrF4\nnCfCZLclTcx3dJAf2C9CTsQU1y5UvU7hR8oxzRt8HN1SeBdwhhpM7E4Z3MW6fgsE\nULgdeMWoj5ADSSTqppk77fXdyD1xmHdwsKqiBXeMTAEflAcwESMTDn5/fVpo7OjA\nKTKo5cU/I4gsf80FASoWuNneWi2dGZWp1+PB4yTqEN2tSJjfsgP2U5gxhJhWVi9a\n+RW8UgP0Wuo8HSzA3k50NYAMcwl9X/l2AqjsKSrCmkhHBiPy8TMlT/Qb+RC/MhJj\nGzxFVYVCrFh0GW3g3ZrtsRosZk92CrVcQl3sX0LZamp+bKtliEAb8zcCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
+   ]
+  },
+  {
+   "sys": "aiocr-web",
+   "env": "uat",
+   "remark": "aiocr-web (uat)",
+   "publicKeys": [
+    "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEA3OQyu9OrYKohz2AHApYhEgLtAA0ZMfjc8x1PaxSsdfL00BrOp98P\nVkhe6tpv78ILR5b7imVeSvdQYEjB1rMrNCcQD7Mpwt5rHPE9Z89wXKvSrq630YM5\ncawVkH3gv1gcoP3X1tOuu8EXMdseHQKHZTh3PPKC2yLIfWP4PI5EuOsarolzrrYx\nRFM/5TzNVBrQsxkTX9r+KVzVDEgry+SnpAusf0uTY9XH/rXRNaJszpCku78L0pzt\nYTl+78gsXalMsngDjiP/wJa+tewTFDaXfPQN1AuNagZ7ZiOphz1cgPnJf/08c8ur\nUF6u9cZhPa7x+ZETms3OvCc5JUV1dl4er1UnFb8h+Itjg5l80JFlPs7+/TebXUDk\n4nGAtaTk8KgBqOSk1//0EvqA4H6NXIB3NTM0QGLCThzvKVFzyTjL+moI9QK8sfKk\nyiEEVOav0Fln1QiRTQlnw1Sdj5Kg7L+ozaR9t4TzRV9DlW1FZ2utncQoS1o388Yn\nFWQWHGYNwq81513bV0NZl1fc00arNVWU4vfLJNe8WnrI9UwopQhoxu0JtkqdEF5y\nINuTH4Kvc/MyStS0bY7LLvEWp91gF0+ZUg2JvSSp9ZTpEU3Ya+q8SFy86Kg9JlxN\nA47D68+5T33uxXE+bcwwrWo9JVePKZqKOvRHtlZ9/8QxME8/fmm/8ssCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
    ]
   },
   {
@@ -70,5 +102,5 @@
    ]
   }
  ],
- "checksum": "9e054a4c9cd3355c0b8a8d38310ffebe1ae9991925a77758af12e9ecf2943660"
+ "checksum": "ff0a3058248f94ac975c9c98352b2273accf3973f3012b7a66bbf98f62b635d3"
 }
