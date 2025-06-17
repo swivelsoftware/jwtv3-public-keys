@@ -1,7 +1,7 @@
 {
  "docType": "publicKeysRegistry.v1",
- "v": 26,
- "createDt": "2025-06-10T00:06:53",
+ "v": 27,
+ "createDt": "2025-06-17T11:25:28",
  "registry": [
   {
    "sys": "aiocr-llm",
@@ -61,10 +61,26 @@
   },
   {
    "sys": "cargoClip",
+   "env": "prod",
+   "remark": "cargoClip (prod)",
+   "publicKeys": [
+    "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEA1mzXbU5PVXqZU5KllT3fweXkL9s1DB2tI8cdxHdrMCHAqIscAsE9\n6dU+YGvDdc5JRpTaCPsTp4V5mjA+FoCPgZiqVDD1IVOUIqHEv0dxG7RNdudXd2Bu\ndAB0LH8aINkcszbUMp0H8q6t36kyYAb3DsMTwOYXBgWiNCcJHsvQMOwsdnXs1HGe\nT825S79Cv/gKnsbvCO4dWvJjaXxfeQncjcI7LZE8tqJHSh6GtS5JmbCZXWbmbFcu\n11EqwMI0tekT4dfUKcDlSMXf13zBYQlr3DL5sgsAaDfu3xOPe6bqVKikq+4DeUyc\nFPJxuejKYPoIx1JfoyoTXdtCOymFBiARREaM7wWGJapLRth0fMDE4p2n6TELQ99X\niOjplptMWhHUAJYVbbGdf2pvb+rP0ImBnUSUIisBpMhS0TaV08FiE2HtjyNTwYQJ\nmtFPOunXlOEcfDn6mKtdkxljE05XjPTMOGpu6pAOSSVe25DS4rq4QjZsxt9eWXwd\nB7RSb93JZmOEmLj4iLpotAc3Uv/QQrVCcScMm76itL77FYtQVu9IRQ4KOA6uGsqq\nnPcL07u3C1Lw/vbZ5XqZtf5t9iVLIQx735MKtg9hdfxNljbg/fqvPZ5azsMMM5Vz\n1XgrztcpBLiTwu8hBVjFrelrEJ12JFUTOX3iazCLgRRgljKsMSJhNwsCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
+   ]
+  },
+  {
+   "sys": "cargoClip",
    "env": "staging",
    "remark": "cargoClip (staging)",
    "publicKeys": [
     "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAtoFPKQ4KPO8qCGWHUn5LO3TpMDgEUBZSsZw36dUXm01EL+cUlhmp\n/eeItBKRuQYiBwrL7zy3GsQ7FEhdzUQ+fmCejyk3VjIDy00ceXyaSsB13tLyv6wP\n/oI+ijfQiXGD1Lj4nszu+WIQvu+HYGdElEpt1unnoMRvTQdGJ9U6S36BMlqFbENw\nt0vD76u68eUYBKCINUcDB71NY64KPv6M3+TFQi9ETQ3hYXYTg5Vxjt+OoRcNVt0L\nm15ZclrWObgmtCS0RRDizYtFcyjiOP6KMkJ9Mgsy2cYsLJSgCkirYLZu755a+iAY\n3ze4g+UPD4w0yaboheEt0Co+RbhgkBbJWibhE9Q9BSoM9yMJ0BuAS+BaAD5yeArx\nbbOMpD6ia2pNZ/HY9mfUHZCF0IWG8V+Zc8+3dri+l4ZutHt8WoqlKlR7F6vgr3XK\nHYReFVK6LtooqCqQoucbOeyIxtrXrG2M0PdPk3UmGUQTO/2ZdIJdEHALbQYWbD6Z\nAS53xn1HdIp3sglA7qPUlW5ekz54V7SeGrgk3bSucl7beepsFD4tZGz75jFto4H4\nBXnF2QoqKmbNo7aWr1Lf4U/O3VnXoMSF/kJ3Dvkilh1JeBoXx3S9QlKWPTuIoD8a\nQAj6WTnJvY0xsFuTRLaD0HNxsrdXwHh9wUlEVh/jCZqlPFKZZ5JB10UCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
+   ]
+  },
+  {
+   "sys": "cargoClip",
+   "env": "uat",
+   "remark": "cargoClip (uat)",
+   "publicKeys": [
+    "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAql4gu8fIJU3sxqOts/BF9nV4xvsD+WwR0iYs3gBmTVWj1I1C0XRy\np08Im8AtTxh+J27GbGiRPjZqKeJhhwAnsQudA2c4BLVZPf/UHSZMOD7gJ8owfXSX\n6Abro7bV1CQdFibn9EdwV/dTrQaQP+DZ+kIoVBl1nZMiCg0cPEUjp8KCxzqDMXAr\nJrI2AfV6/ksVHoCkYu3bwwt1n1eXvLl8YWdw3sWxPkUtNDQlTQgKP9FsUYHD409V\nH9SHL95TW1NTej4lmT4PEYOtnxmgxOfRAmdPQyYYiSO+2wQsPiJehh6/dIqSEtDp\nLJwDWvXISwBg48Y//9OF3Na48JOQNbbHhdBvQkZEliKtTKHk2puECjUlRm/cU/vU\nHwj0WVD4GReVR+YvcITpwuxFhEKxJTUOGtabYm8R6ZfaLzTSqcxCYnd1a7vRiln4\n40ra89CNT/artWuw6CPgQHRY4AH92XPWiLCXPW9/uYYZlcqQPk3ZiP0mwUCYpe/v\nDhlc+mA4v1sQ/A49KA0OZoDMLGO4P/nmj57WpXJryGZ8WxvsVdMcFs+hjkWHoA31\n8woOLcU4XefhNOrWZUZWFkFtt1jrt1Ji1ul5XX/q9nJDtFm3pymAWTgWrdMHwX5s\nJqbwxp9wWLzA25WxMAU8UyN5YShrXUyD+DYVH7eNPKdaETMgW1q43/MCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
    ]
   },
   {
@@ -102,5 +118,5 @@
    ]
   }
  ],
- "checksum": "ff0a3058248f94ac975c9c98352b2273accf3973f3012b7a66bbf98f62b635d3"
+ "checksum": "d3b79f05811592605d13462bf49c18affabdebfa1c66d591b061e503afab0d55"
 }
