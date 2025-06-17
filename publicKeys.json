@@ -1,7 +1,7 @@
 {
  "docType": "publicKeysRegistry.v1",
- "v": 27,
- "createDt": "2025-06-17T11:25:28",
+ "v": 28,
+ "createDt": "2025-06-17T19:42:25",
  "registry": [
   {
    "sys": "aiocr-llm",
@@ -84,11 +84,11 @@
    ]
   },
   {
-   "sys": "one-dms",
+   "sys": "paperweight",
    "env": "dev",
-   "remark": "One DMS (dev)",
+   "remark": "Paperless DMS (dev)",
    "publicKeys": [
-    "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAq8svMUlVnhxtnt/BkFXaURiyhk+Hs18vzw8tUeKHoYxiLYOPJrsY\nJF0suDhXQx/Hi2c0OhG8+knLp1QIfWs1Un9IeCZ+i8Fuh9MznrzGNZSoEF+wIhxN\nUKYKgT4pf1LmWJTcLoYlWnvdNkSy8SwwEtPEdj4+CEx+tkXp9v8nku2RlgbKyJd4\nx55wAmoqo3rAWCawhyr1KUPY2fanFM374DsznQWmX508xS+KN1z932A/Glk35zOH\nwlgu0eI1Mo45/sEDhlcTNsTLfCEIN2fsmkUzHvjOOvJIItUn1ynuuQa9dAJ94mwb\nJpvw0syZMe8rLm3ajdiVpLltWv0zNV/RbpBM1n6gb8QdYkDZvBv4dKfR7yZXKCl9\nQVtJM37ZfjBSWLTr7CbnkRns1tKd09UdT2Tg3KUMo94NoOBIRl75lfZofRHoQfkr\nKSOJWqLSGt3XJj00joPeH5e6g8CsIRnnRIeP16ogOiOXZ4IXhrt5jnyKPknhy4+0\ni2dP87VEMzLSDDnla9DtdfxlrFOO1RmkcIqd2qOW/2rDUdE/S2sUQ0+F1h658Mh/\nzDW1/3SicKYJmtYBOXPBa7EZmSkHUketMVov+V5GhyJqZfUhPznEqVicLaiTEmnk\nGfK2dRAoeLfiwcC+wuJAeTIMtv4+/1pPPRve0v65KALZmkMiPGDVozkCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
+    "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAvtdfyXnSQ5LXQ+Z4ZPxkWHzBVERg5iEZOqlegL7ks/Fp+Qbyha1y\ntoBJYINA7hBWo01HDikfXmQSTsSt7e2AVqY9vIB65MgI6IfriYgqWLmJDPb8xmtb\n6KfjYIKQvgwx7hu4hR61nkA/7iQ6yCW9oKKJzEDqsZS2/6OiW8jkm2hNhGXOaFvR\n7iQieemlsK2rM6/U1Q8IOqWmh4s5k1N/Qed4HhRmhp6zgdkpChg2n6WzOmXjOkb0\nuXJMsDf4470uw5w8orXnujpcimA+GwjpxHBO4yUuW2FWTjRCcBvUJbR8ou4wKLeb\nxbAJ8DTRI3VmD5Y1XfHgrE/j6DFfT9Oe7I1kxoD+Nx7Vli3pRKq9BXYIsOIsCch9\nn1XT4p3xyErAJJaJe4iymyXiyedA8wawg3zWmwKGCkXzf/rZHNdrCJpXzbVDna0v\n+4aentIYg+HVu7paKuL0NRZPY9Rq2iqazSM+wbt0X0+s6hnM4TO/4HfwIQSLFC3D\nTPf79CAQ3+MWFrpNZSKGbiNSkwXqz0Yunnt07J7rpHtkD7H4oyCcQAcpJ8jgKB/K\nsd8Y6PwK27nTcVkFlNJ3ncWFUTs/z8EoLqzjOtp4M8B7v1w2hj+UVqMIOv8vP3kf\n3j5qUhZ/vqCe1izrhOi0lBYcMdFxHlxtFd9jc8nmnYO96ww78VAQQmMCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
    ]
   },
   {
@@ -118,5 +118,5 @@
    ]
   }
  ],
- "checksum": "d3b79f05811592605d13462bf49c18affabdebfa1c66d591b061e503afab0d55"
+ "checksum": "d42382b0718db33361456b923370cdd59720f0df345a39ee9efa247b4f0660c1"
 }
