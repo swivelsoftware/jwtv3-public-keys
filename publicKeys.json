@@ -1,130 +1,130 @@
 {
-    "docType": "publicKeysRegistry.v1",
-    "v": 29,
-    "createDt": "2025-08-14T13:06:43",
-    "registry": [
-        {
-            "sys": "aiocr-llm",
-            "env": "prod",
-            "remark": "aiocr-llm (production)",
-            "publicKeys": [
-                "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAq30RSZVqpaRLgYlzFfkTQE6XyCaZSX65xQQFvCTmNcXMONP/igAE\n5U8BEawo0pL7T/3tSev7FBQbZZTk98wX2bNm+w+17+412qC10YnDO1iMfBmii9uO\n18SA7Io9LCpi5RDJ78+Y4yWwmyWBVzd/Pw5fm3uk7P3ESTADSQwr09il2RmtQD/H\n6jXCAhUxTjAXn9zEkp6QMFRrkI5KPXfS/+cG2kSBbERkdheuRQjhU5xiXmrgecTf\n6aoUhOixsw4/rFG1f1vH41ENpy8iME7XCWTpyVdmQyFv98weFnnoE0A7uyshp+KQ\nVn6D3qNpNM/9/FZsd87wZy29zhkrCLnJR2Xuj+TAoV5PpmMBJ8AdSV/zWtRaa+Bw\nIzg4R6CNJ+4gHxVQhjclp+jCL/Rr8u12OzZMIX3WQ6yTvSan1mNcyjKZ2pUydBMU\n5CTKGgF3FKQl2SrvD4VgqKQRhKaZDNVOAO8//ubuYlP6r3YYfZr0sGpq2tTWVhXa\nHelwcE/YE/jAt5NexJDVkaNBrMPGN4yi4dhgvcnaa1LxI5CzPpiTl1JiiCio3gjA\n50yRGcuQ57SKl2MxyqzekxPqiKSKfLle1i3LkjcLDigg4fXC5crCFNbLYCYuIl/C\nYfmK9oYzXsgXlhvf7smMbcA0nxcUkNOnaE5svyB4KCOa5lS8EcHTtPUCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
-            ]
-        },
-        {
-            "sys": "aiocr-llm",
-            "env": "staging",
-            "remark": "aiocr-llm (staging)",
-            "publicKeys": [
-                "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAmwNY4zCDDsQtebmW4Hwkp/mo+XhFXw3uklfJqpE2E3C7+Gd0NKNE\n1lrJtUMCLtgXPJdzDVvJpifdnYPWU4QPeu9TT5fMZGqA1hhGWqRO5fG0U5dkBCbC\nDTS+J8/X6W7IF65kUbmJciuL590SdrPmbB/nCe8Taclup0JFXwqIgji3AA4OLDoM\nwV9CdbBZWnOZAgWXOq+X4kbQKhArum/pzuJhbwiit+BNXRuLHm6CH9E2a/2EH+CT\nQ4pYGIN0xPPmtvcS9nV4lOLydSlqbTCO3LfP9YZQDDGlq0/3IeRdBRxc6tCa4sNE\nNC2PUh17f+gTjd55CtWLv+czI3MJloKxDVoOIAWKhpcemViTYtrHJlXLwUSLw1Fb\ncDgboroXgnipjIYymUhsNbtlGqguHKmKo55vMbq8EhktMlyB1SAC1v9kn9bc+yNP\nQabBArMnp6xS71yM7+UkReLsJa3XAjTUKZnUJ1hAegh4+fyGqWjeK8X+U/S4wQop\nAgjKlE74s2OT9+L0ScnoPYf6A30wnFLDsH41KrM5KmLTOLrOa5p1iEjQvmSqrrco\n9bzXUWzlvp1n1OeGIhsAvXOC9kEzeFeJb7rVfqqH5d5n7B3fUR+ET0mW4pCvA8Z7\nI4GoZOvQP3mhRnuDN45kXKVNXM63Hau50A0q3DFwJNLrLX28WjNyaDsCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
-            ]
-        },
-        {
-            "sys": "aiocr-llm",
-            "env": "uat",
-            "remark": "aiocr-llm (UAT)",
-            "publicKeys": [
-                "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEA0EAyaeIhndsDUtRxHGWudDNK/4vNWibVkF7LWQ5uK57l2GV+6uj3\nL8jl0O/jMcpXtYb7GB2ER2rHpAgZ5rdmz/AVexdcqVirVbJWOwGFeV86N31pHsjm\nX/fE1CbZcOPlyeKM0HL3GL7OxIjgfE6LyiW9unu58vWJa9uU4ecT7u0mUEQcWyIe\nEbMYd8ayRVfZEPKoxoUE4BoYMHJrRYr9cdYWoJI0pGtUMLlMnP8qab5MdnkJp5Kz\nwszHMswLeX7HROPuNMUymfVRtcOV6Z/1xCA4JB0tzcvhoufHU6TIoO8RHh+g6Ut+\nOAw6PUm+7eyTPredb5g5AJ8Nn8zVQAtrLTczp7L5wp/Ms2syla575bTpgme0bctR\nXfJcK9fU9xRSVTyfUJWDBMyE0oJ6Y9YRCVH8eov+JAppY6aqxN50LXt1zLGSq+cj\nobxBjwezgtP6yvkyik/vZLA/BOXV6NqP1pRCITMaP4jdhKGppEQXiqb3GeCOj6wc\n5ynNh8DTjzHQG1LzoFPYhaZTAvfpYta3LCEw43myOWpKVmQM3F3VPtFKgsx651TF\nXCuW5q44mqTUdYKyd2/G9kn3R4gzookfRhzhMehRwaiFNuUeFTGkuBXunFMcMLse\n4xhpBb7YDOR5frjc5ylM8QqnBsD1jGeyfIj07Zw869iDUtfD6SETgfMCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
-            ]
-        },
-        {
-            "sys": "aiocr-web",
-            "env": "dev",
-            "remark": "aiocr-web (dev)",
-            "publicKeys": [
-                "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAy1B4ilPn2bJLx4mFsRa3Xf7543LExk8F7OA223l1t1eHmOEvTT90\nAX+8spIqEGWBVyG5MlZgd7hB6VFXAiEtcEiJg08pcfa1wt5b05WmdUFtCb+ve8hf\nx/WIK60+7sxSGieqygn1bnL2d4DdqS4FBDudzjNn+c46TEZbxVRrrvbgTmdddsaN\nc3Fjt+dgf4qRaOy8qaeY3BcZ/DxdoimDueUAnbUyZQ16G0mLBUEjqPw3usTvU80H\nSuvDHonNdPf4Iz3uR88KY/1Tmzrfapdb0swTfBlPssZxCiwulPgnIjRyg/OqnY0Y\noE9gr65kGpQlo7OYRSr91WSclxPInIxKid4CjoH9SDnSS0OiAb9+7UxynHH1tLqc\nRTsR/zFlETT0gHCGqqYT1N09q+qMpAyj9/3ToNsTjXu57knMt3XecGvDtPep5pjy\ns1tXb8ZN3liaDsT/ApMfmKAlre+weWOxDt0x0iZWKJZWFk7gLSdONzpSMC837Sfg\n99tjekekr1ybTfBqyM/WRKOCpI5x1Z0ypaTOTxfnJtjWlTytqnIxCG3E/sWhW4cj\nbgKHEwHx4gOTUlhCzocHZdiHB78RqVGeGKmf+MW+xMn4dv0LG/OPfk4NXB6TmJwG\nSCaeMpVkZYCSB2fADNhMPMGCwlpG0Zkluth20AttGsxiXF8Opvmc2dUCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
-            ]
-        },
-        {
-            "sys": "aiocr-web",
-            "env": "prod",
-            "remark": "aiocr-web (prod)",
-            "publicKeys": [
-                "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEA4Jy+6Amxy9Gahvj5CgOjiWkHCPAejVVCeGTjTIXXip7h4pE5C2GV\nMoav1CGLTP//IAHG70cYW5Wzug8UcERm2mCDGe52n6FY0xDcb4C7LGzlv36mncpx\nDBCsAJohYqX0VPF9zY3zcJMYt2YF8H3pFyl3c27CxudS1dWoR+ye1/QOvchP2l3W\n77P+GuTdjVgaLyJIQ5eQRbl74oVPkLqHgiBOZFkwpUUoFSQfmwsToYYf1sSMM4BX\nfluhVblbaB3mvIAQKPhAGDGSqT3T28vIMjuZimJpldrwj0meA7a5uWxhHlmlvngc\nn++GjWG4QbYBM7ncQ6foPt5/8p1JOSPsDCJ5sYWFVTdaP9/EuhsjbB2VlXXtEb3O\niAAkx8IY3HgmsjFL4tlyLZxRuvCblTQv7bt1EpvbQpAW2zmiWR0+SVRLDLWe4+U4\ncIoNrC8m0Moixw5qKT9WtfavPiZ91By+ks0POTEMNbi5n5f7mR8lZ1QpSkNrYsT1\nxBXwtMtlVqmKVdVWYJZOSop6s/fmm3wXGxYx048TXuiiJlin3TaG+NFlYqdNLHfE\nZNxzEbXCXivMIlVlFdbIuhwI9DYgtuRjfHqqEhML2z8Y/J5OubWwxknmRgZxm1v9\nLhOyPlpXkvtjWJsvzCst597M004t4hRKKGBNomNvI02U0Brl5iKZjp8CAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
-            ]
-        },
-        {
-            "sys": "aiocr-web",
-            "env": "staging",
-            "remark": "aiocr-web (staging)",
-            "publicKeys": [
-                "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAtKMNCcENKfumVWM9wswuE44CrRzzf6fk+wrzozHKsaV9w8LS+3lU\n92HnNSu/b4xzbMQcJoxs3PVSc3g8GQqs/2wQ+j5DAO1kbc+9u/m2xCAaKIQeRqhU\nEF/vzTceuPZtf7oAQIkY+nYQKapPT+HMNv0+2/SIfJUamWXiwt7DcnXRVtpl1Qx5\ndJME9OHIdZmwI6W+diTQtREJJ9Inv7aoKvwl0UjHWuc5adskyt4fO7RZUKj15x7L\ntNCClldJLZdshrrnRXHaB60A1a3RhtMBjD/mAlA3MrbKvYv2G7lH7Zafzmxc1Itn\nsEbsaR0frIJvHlNZCXaUDGxbuHFqQmCYWzSIBpUHfJ3ejkYDDJIZpFpT5wOQQrF4\nnCfCZLclTcx3dJAf2C9CTsQU1y5UvU7hR8oxzRt8HN1SeBdwhhpM7E4Z3MW6fgsE\nULgdeMWoj5ADSSTqppk77fXdyD1xmHdwsKqiBXeMTAEflAcwESMTDn5/fVpo7OjA\nKTKo5cU/I4gsf80FASoWuNneWi2dGZWp1+PB4yTqEN2tSJjfsgP2U5gxhJhWVi9a\n+RW8UgP0Wuo8HSzA3k50NYAMcwl9X/l2AqjsKSrCmkhHBiPy8TMlT/Qb+RC/MhJj\nGzxFVYVCrFh0GW3g3ZrtsRosZk92CrVcQl3sX0LZamp+bKtliEAb8zcCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
-            ]
-        },
-        {
-            "sys": "aiocr-web",
-            "env": "uat",
-            "remark": "aiocr-web (uat)",
-            "publicKeys": [
-                "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEA3OQyu9OrYKohz2AHApYhEgLtAA0ZMfjc8x1PaxSsdfL00BrOp98P\nVkhe6tpv78ILR5b7imVeSvdQYEjB1rMrNCcQD7Mpwt5rHPE9Z89wXKvSrq630YM5\ncawVkH3gv1gcoP3X1tOuu8EXMdseHQKHZTh3PPKC2yLIfWP4PI5EuOsarolzrrYx\nRFM/5TzNVBrQsxkTX9r+KVzVDEgry+SnpAusf0uTY9XH/rXRNaJszpCku78L0pzt\nYTl+78gsXalMsngDjiP/wJa+tewTFDaXfPQN1AuNagZ7ZiOphz1cgPnJf/08c8ur\nUF6u9cZhPa7x+ZETms3OvCc5JUV1dl4er1UnFb8h+Itjg5l80JFlPs7+/TebXUDk\n4nGAtaTk8KgBqOSk1//0EvqA4H6NXIB3NTM0QGLCThzvKVFzyTjL+moI9QK8sfKk\nyiEEVOav0Fln1QiRTQlnw1Sdj5Kg7L+ozaR9t4TzRV9DlW1FZ2utncQoS1o388Yn\nFWQWHGYNwq81513bV0NZl1fc00arNVWU4vfLJNe8WnrI9UwopQhoxu0JtkqdEF5y\nINuTH4Kvc/MyStS0bY7LLvEWp91gF0+ZUg2JvSSp9ZTpEU3Ya+q8SFy86Kg9JlxN\nA47D68+5T33uxXE+bcwwrWo9JVePKZqKOvRHtlZ9/8QxME8/fmm/8ssCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
-            ]
-        },
-        {
-            "sys": "cargoClip",
-            "env": "prod",
-            "remark": "cargoClip (prod)",
-            "publicKeys": [
-                "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEA1mzXbU5PVXqZU5KllT3fweXkL9s1DB2tI8cdxHdrMCHAqIscAsE9\n6dU+YGvDdc5JRpTaCPsTp4V5mjA+FoCPgZiqVDD1IVOUIqHEv0dxG7RNdudXd2Bu\ndAB0LH8aINkcszbUMp0H8q6t36kyYAb3DsMTwOYXBgWiNCcJHsvQMOwsdnXs1HGe\nT825S79Cv/gKnsbvCO4dWvJjaXxfeQncjcI7LZE8tqJHSh6GtS5JmbCZXWbmbFcu\n11EqwMI0tekT4dfUKcDlSMXf13zBYQlr3DL5sgsAaDfu3xOPe6bqVKikq+4DeUyc\nFPJxuejKYPoIx1JfoyoTXdtCOymFBiARREaM7wWGJapLRth0fMDE4p2n6TELQ99X\niOjplptMWhHUAJYVbbGdf2pvb+rP0ImBnUSUIisBpMhS0TaV08FiE2HtjyNTwYQJ\nmtFPOunXlOEcfDn6mKtdkxljE05XjPTMOGpu6pAOSSVe25DS4rq4QjZsxt9eWXwd\nB7RSb93JZmOEmLj4iLpotAc3Uv/QQrVCcScMm76itL77FYtQVu9IRQ4KOA6uGsqq\nnPcL07u3C1Lw/vbZ5XqZtf5t9iVLIQx735MKtg9hdfxNljbg/fqvPZ5azsMMM5Vz\n1XgrztcpBLiTwu8hBVjFrelrEJ12JFUTOX3iazCLgRRgljKsMSJhNwsCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
-            ]
-        },
-        {
-            "sys": "cargoClip",
-            "env": "staging",
-            "remark": "cargoClip (staging)",
-            "publicKeys": [
-                "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAtoFPKQ4KPO8qCGWHUn5LO3TpMDgEUBZSsZw36dUXm01EL+cUlhmp\n/eeItBKRuQYiBwrL7zy3GsQ7FEhdzUQ+fmCejyk3VjIDy00ceXyaSsB13tLyv6wP\n/oI+ijfQiXGD1Lj4nszu+WIQvu+HYGdElEpt1unnoMRvTQdGJ9U6S36BMlqFbENw\nt0vD76u68eUYBKCINUcDB71NY64KPv6M3+TFQi9ETQ3hYXYTg5Vxjt+OoRcNVt0L\nm15ZclrWObgmtCS0RRDizYtFcyjiOP6KMkJ9Mgsy2cYsLJSgCkirYLZu755a+iAY\n3ze4g+UPD4w0yaboheEt0Co+RbhgkBbJWibhE9Q9BSoM9yMJ0BuAS+BaAD5yeArx\nbbOMpD6ia2pNZ/HY9mfUHZCF0IWG8V+Zc8+3dri+l4ZutHt8WoqlKlR7F6vgr3XK\nHYReFVK6LtooqCqQoucbOeyIxtrXrG2M0PdPk3UmGUQTO/2ZdIJdEHALbQYWbD6Z\nAS53xn1HdIp3sglA7qPUlW5ekz54V7SeGrgk3bSucl7beepsFD4tZGz75jFto4H4\nBXnF2QoqKmbNo7aWr1Lf4U/O3VnXoMSF/kJ3Dvkilh1JeBoXx3S9QlKWPTuIoD8a\nQAj6WTnJvY0xsFuTRLaD0HNxsrdXwHh9wUlEVh/jCZqlPFKZZ5JB10UCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
-            ]
-        },
-        {
-            "sys": "cargoClip",
-            "env": "uat",
-            "remark": "cargoClip (uat)",
-            "publicKeys": [
-                "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAql4gu8fIJU3sxqOts/BF9nV4xvsD+WwR0iYs3gBmTVWj1I1C0XRy\np08Im8AtTxh+J27GbGiRPjZqKeJhhwAnsQudA2c4BLVZPf/UHSZMOD7gJ8owfXSX\n6Abro7bV1CQdFibn9EdwV/dTrQaQP+DZ+kIoVBl1nZMiCg0cPEUjp8KCxzqDMXAr\nJrI2AfV6/ksVHoCkYu3bwwt1n1eXvLl8YWdw3sWxPkUtNDQlTQgKP9FsUYHD409V\nH9SHL95TW1NTej4lmT4PEYOtnxmgxOfRAmdPQyYYiSO+2wQsPiJehh6/dIqSEtDp\nLJwDWvXISwBg48Y//9OF3Na48JOQNbbHhdBvQkZEliKtTKHk2puECjUlRm/cU/vU\nHwj0WVD4GReVR+YvcITpwuxFhEKxJTUOGtabYm8R6ZfaLzTSqcxCYnd1a7vRiln4\n40ra89CNT/artWuw6CPgQHRY4AH92XPWiLCXPW9/uYYZlcqQPk3ZiP0mwUCYpe/v\nDhlc+mA4v1sQ/A49KA0OZoDMLGO4P/nmj57WpXJryGZ8WxvsVdMcFs+hjkWHoA31\n8woOLcU4XefhNOrWZUZWFkFtt1jrt1Ji1ul5XX/q9nJDtFm3pymAWTgWrdMHwX5s\nJqbwxp9wWLzA25WxMAU8UyN5YShrXUyD+DYVH7eNPKdaETMgW1q43/MCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
-            ]
-        },
-        {
-            "sys": "paperweight",
-            "env": "dev",
-            "remark": "Paperless DMS (dev)",
-            "publicKeys": [
-                "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAvtdfyXnSQ5LXQ+Z4ZPxkWHzBVERg5iEZOqlegL7ks/Fp+Qbyha1y\ntoBJYINA7hBWo01HDikfXmQSTsSt7e2AVqY9vIB65MgI6IfriYgqWLmJDPb8xmtb\n6KfjYIKQvgwx7hu4hR61nkA/7iQ6yCW9oKKJzEDqsZS2/6OiW8jkm2hNhGXOaFvR\n7iQieemlsK2rM6/U1Q8IOqWmh4s5k1N/Qed4HhRmhp6zgdkpChg2n6WzOmXjOkb0\nuXJMsDf4470uw5w8orXnujpcimA+GwjpxHBO4yUuW2FWTjRCcBvUJbR8ou4wKLeb\nxbAJ8DTRI3VmD5Y1XfHgrE/j6DFfT9Oe7I1kxoD+Nx7Vli3pRKq9BXYIsOIsCch9\nn1XT4p3xyErAJJaJe4iymyXiyedA8wawg3zWmwKGCkXzf/rZHNdrCJpXzbVDna0v\n+4aentIYg+HVu7paKuL0NRZPY9Rq2iqazSM+wbt0X0+s6hnM4TO/4HfwIQSLFC3D\nTPf79CAQ3+MWFrpNZSKGbiNSkwXqz0Yunnt07J7rpHtkD7H4oyCcQAcpJ8jgKB/K\nsd8Y6PwK27nTcVkFlNJ3ncWFUTs/z8EoLqzjOtp4M8B7v1w2hj+UVqMIOv8vP3kf\n3j5qUhZ/vqCe1izrhOi0lBYcMdFxHlxtFd9jc8nmnYO96ww78VAQQmMCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
-            ]
-        },
-        {
-            "sys": "paperweight",
-            "env": "staging",
-            "remark": "Paperless DMS (staging swivel)",
-            "publicKeys": [
-                "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEA1RH60SoanvzFdkB6F7NClzz0nVYLA0/UhjVxpKWxJv03BZnCmYvr\neUXAL1I4xxecoD9JQLM1GDJCSuRwkVZKds246OHLn84mAmeaMTuYPIQY7eHhIdiv\nlYoIjdU4nM/jzxC/sH7t2k/ptsnatqwaPxvMKfyCCOR2Ou9jMy1O8hiP2fTAZSkP\nvgwNGuagM/nsoF8ZL+8HO73BiAkY1FoXpc6704UbN/F8Z8RV+rH57dpB6wYq6khc\neTsY09l9hOwYDHEKPFlX0cTswXa/bIMGy2MgXVy4Pv9V1vOecA45DgnPvgQPAXEm\nBkY6g9Sj8JmaHY2zJXSEZBTsbd2MyjItaW4UVE5LM3X5a38oiBwg525mGyeIv5Cj\nG0gCtJkbufKWg05gCQs7rkzq7Zhon1X8fzWh67AzFWDYl5GI+3+iHZYPdFmFPIkY\nlZjuVaTnam28BYxNF2Ix4gX6gjMaseKe6LILbjw5gxs2Xbs/28OKUWHiTdlMtr4F\na6fGfExFJe1tsutkrpItsr7vWwec0jjGCcFkxbSwrTyVgRFBv9UjtrwM9k75gWWU\n/OydAcI7RbfVrvK1HSP2fOGbuj6/zH/luafXAQ8eph+TCvyf38M4B9yg3XWtPrc4\nU8eMgkP7Yp5QkA9la9OLToUqdHqBb2CRpoZbnLlZOLMEPfK88gPGyscCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
-            ]
-        },
-        {
-            "sys": "swivelCommonTest",
-            "env": "prod",
-            "remark": "Swivel Common Library Test Key (prod)",
-            "publicKeys": [
-                "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEA9vAYk/oG9cZeOmOP4S0hZc4wPqD54Ca7F5ecRGRtbBDx013ak2F+\nx274RYaJ4/5ju2xZ44U10amWvIwphgyywtD8pizjXDSq5d3Im6D70BtXu1j1YrmO\naV+Vv0AiD3WQWi01BXdIgp8rdPI0n0BcWKxIWdBJb1dkhPWbRkfRJRXKqSk8ynC0\nWoalqVYvlpbUs8LDjPwA1DEw8y5Ll8ghHncFYXtYEx2oQmraaXWvmWs2oW9u0tkX\n8qJm4X4IfjSDtaou4QIbbe2ZgI/wSBaJ5MmakOwryrPnd1hYOZywbcrc5hkc7492\n4SgazQtiAODB7RM+CSSKb3zZTROY4Af489SEH0ZQR/SZvyMevNzkz5dKn3QNphML\npVJbRc4cWw1BqbwcWYQTrhAXwIzNphDPSyVFRSDBcEevw1zmoITxcsuXRgMmdoV4\nF/9FI1JZZIE+Pvol8MxbTqL3a6WTqYXJKaw5LJEQzuvl7tz20vHhi7J9ya7Ze04C\nVL2DtcYlvwmsfic1iWqvyBZ+ptO+rhfFlZMI/eTmCudiAcueaRbwECLqYd35W+y/\nrflnoHZnMVgwEVgzCIcdDHjfKRBK0Z/toNLCwL+e0xdHKNL4o21d+cx4+/f0IQYN\n6/CxAvk4neCnM4Qo9v1gPHFSU9z+fZ0b9jtlFLUWUkEqMMAUYO6Ls1sCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
-            ]
-        },
-        {
-            "sys": "swivelCommonTest",
-            "env": "staging",
-            "remark": "Swivel Common Library Test Key (staging)",
-            "publicKeys": [
-                "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAuP3XiB4uAiKghYb36ZyDwu8X7lXKWjN7tOZL1AgK5W8D6fLMwc60\nQVstecdQBEcFl0Jz+x9f3LI5qZegInPT+vS5eDCHvVFMNLahxmeyXQ/VODHJyoHL\nn/POXc9Zwxs3izvT0q6laS6pmjOsXTHiErmmOEYejPHyVWe5Do6mPmEzukWaWbNt\nFrdempZi8etVgm7R0mfj7yqYuWQDvBbSk7ZC8qU1JnN1XNSl/hEMs3HGhAH6wTTV\n4TwRAP8lOmVq+yix6N7knLXUmx456j50tyEdRwBW+aXXgDGZ3SWEeZ2Pu3nvRelI\nwpCtTi/6Lbh0dlH6ixZp6wZqszLTyxPlsXTQ5vUIp9uejRaXs9xgELGlmGwvDzIQ\negb5hpG+7p/mi9T4Ti1JxX3svb+aHM8bD2NAem9+2gZMfVda+hN82dtZ2NM4XssX\nPyzZnFZIHKsmaLxWYBpbHt9oK17DQ/urxwM2e17YT3YWG9WDGF9mHW3QcXDLBkk9\nVBj/3//TFrwL2NFIiMHIyCDnSsygnHjca9QJzvwZVEZ20asDskkF9/UBBsxXYy/Y\nMPZRW0s/wqCtph3qXhJpACPbmr1HbENaTS0KaREPVsJKB9PVhKuXJN6tdkeati6M\nqyXrLCXY9EWLhfC793OF2J7VrTqbXdRUcsR2+iAlRjMQvIZXJLACvikCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n",
-                "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEA9WILAicy3m0oksWxB5+kPhy7GQVy91hRIngReUdd4rC1kyxRR/qC\nlZC993KP2Ziy3m9BfBBddDMohEKHz5ioPcEhzbGZrgDnhOeMtoQMgdA0fQ8asQxU\ne2z/RiBV6Muyxfn1NI8G2R6l3WTTJ1L0O5GUjETN2o+X1D/fFEz/7qa5XE282p89\nKEXNB9K1xFk60PTnExLNQ4nzrIt9dvwlRutpVbpgM9dFLpnPCOT2dUokBzsne08x\nO/a2twwi+tuB0TUEZ+8RNg1D716dF/1Lv55CHjq9S/LX53HlsfMbXlcL0au3OAUi\nkFckbN/6qgk5nNTJUplOzmQ7/vkQpVTpEO81zprsWLfczmZ+2CFEaCj/FzLPg7X/\nvInXCtGixLRo70n4Mc4fYPYhOYfob15scuC2FLVS8Nhc0d3Jp58LXWwBALJIJPWW\nX7AvW53C9iPUlxVLq8lPCwTAQ2i2Wl5dp38tw1C/zxEUiGhZII7OFQr6KvBvgkw1\nm8MjcoHMMZQM2WrbRsKwZHwm4FRMXbFVaURv2m9Yn5xjnBQUftMURVurNeydLK5Y\nefb208pbL0LWVrUPNDA0zTyDvlT9ZsWHnQ0w3zOn7pf78RWsQO52LPu+akQkw0q3\nkQdBbEETu/A8e6FPRqUQdjf0D4lQGW3maXM5JqQJuUwXSkWrme5YrUUCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n",
-                "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAwF12mLDEQaSLljX1BfhEvzBGilZbdgjczK2/mm9uxinpsTogPYil\nuPcksufT8sk2p/o6KQIYMJgAefxdiW0IJ6ZC8M5reqfRA1uvlD51KAw83uUthSoO\nh+37mQqzMiEojtgzvbIHSfL6gZC+E6atJqEIj6eHeWmgVXXMWPCL7du7Tnk7kWRN\n3HK/+g5XsmX/m95BRBhO2VUz8QODAPAr7IrVqoQPongnRNvYSep6OjDWNu3TugZS\n3hZWI+tofkeFXH84rH7ItghVUKa3NBbw/Cg0BXygsxiDPrEeC3NbtAhZnCXZlMtm\nLBKVgDhrIEulYKXcaL1Y44AK/iDyklYh+pKylXR+dfQ95bXJqEs2109Tkddic3Vo\nReGmZOPPc3ljNvXd9cGFFS8e0DsQLZvvZgMDIQJaDeY5t03COIPSW+eTzSTSw6wk\nIocI7A6zoMjmUWv6+cxIZg4MBMxnipm6lhPRsjCAqAtpf8toL00IRyM3sk0JA4Y4\n7BMX9mgayoditCAKHOazXwZHaOBl2GlLfPBw1s4nMSJrIK4ObDt8WleP38xwojWc\n7b6s1gmwPzYZ/2THBjTietrSOAEQYH2geG4L2eCLj8kEgYBWITwlh59DTWeS8SAu\nbiDVe4liC2WnLKo+O3eTqYGyefH94QFOZwWbqQT/8b6EaJk7J+L5HFUCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
-            ]
-        },
-        {
-            "sys": "swivelCommonTest",
-            "env": "uat",
-            "remark": "Swivel Common Library Test Key (UAT)",
-            "publicKeys": [
-                "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEA7IfbKpfOKxNj+SFIUmDmXLN9lMsVjy0KTJUghPshuTrLnKxGZ4OM\nBSyzlDxyi9Pxv6upXO/ZHFi8yvdRIFSxuGVpmPc0PBt9VRRDgRrglGKZoFD8EQzD\n1D+qrxWjEE5ZDwgIuBEycv0I4WfaCUfu53Vbq+Rfgx8AU4IdpAvw3+loP2tYazjl\nQAqaycj3KAhTc1sRt8QcmCgwX5F1c51nEdyYYvYnVEGY0lkt7NBrqGEgesWv0dy3\npvqnkLKGuSyV5E++zgje2lqN9Eygp+ZlFf05GePsyWIk2LAS2UIcn2XA/P78tHoB\nmDzDEo+lOUVBDo/nbbk16SSKW9LNyTrQjIWhJBBjF32BHBRiL16e27s2VQEdJZwq\nfFYISPjNUAhR4dhXw0nQZhRHhVkoVwQZgtnQ2FzTXrouW+xDUQ3LCOJhOKHX/cI+\nlvkOcZCEudbqrPJUaNm50bjXau6RAIiqjICQzn2gEhwUDHYT7SRGbQrrzCjKtaAd\n1m4f88SZgku7hUQM4wxS03N72YV0xDwwlqotGL9Cz6At+P7lx2ozS7K2BSA7lhP5\n8H6TDEdzlIgwj7VLer6aPiSy/h0H9ZhAbB1f78GHTUQJQ8abe59vnBBttNRK3d/B\nAlGq/ikRoKkouRTqWh+u6EAJ49vcBXer21YOuRFm5XRTJOA0l7Kr+z0CAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
-            ]
-        }
-    ],
-    "checksum": "517bf7d94d597072b2e87e8e3d8ec12f26538ca273355ba71a7a343bd8eeb3f0"
+ "docType": "publicKeysRegistry.v1",
+ "v": 30,
+ "createDt": "2025-08-14T15:32:37",
+ "registry": [
+  {
+   "sys": "aiocr-llm",
+   "env": "prod",
+   "remark": "aiocr-llm (production)",
+   "publicKeys": [
+    "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAq30RSZVqpaRLgYlzFfkTQE6XyCaZSX65xQQFvCTmNcXMONP/igAE\n5U8BEawo0pL7T/3tSev7FBQbZZTk98wX2bNm+w+17+412qC10YnDO1iMfBmii9uO\n18SA7Io9LCpi5RDJ78+Y4yWwmyWBVzd/Pw5fm3uk7P3ESTADSQwr09il2RmtQD/H\n6jXCAhUxTjAXn9zEkp6QMFRrkI5KPXfS/+cG2kSBbERkdheuRQjhU5xiXmrgecTf\n6aoUhOixsw4/rFG1f1vH41ENpy8iME7XCWTpyVdmQyFv98weFnnoE0A7uyshp+KQ\nVn6D3qNpNM/9/FZsd87wZy29zhkrCLnJR2Xuj+TAoV5PpmMBJ8AdSV/zWtRaa+Bw\nIzg4R6CNJ+4gHxVQhjclp+jCL/Rr8u12OzZMIX3WQ6yTvSan1mNcyjKZ2pUydBMU\n5CTKGgF3FKQl2SrvD4VgqKQRhKaZDNVOAO8//ubuYlP6r3YYfZr0sGpq2tTWVhXa\nHelwcE/YE/jAt5NexJDVkaNBrMPGN4yi4dhgvcnaa1LxI5CzPpiTl1JiiCio3gjA\n50yRGcuQ57SKl2MxyqzekxPqiKSKfLle1i3LkjcLDigg4fXC5crCFNbLYCYuIl/C\nYfmK9oYzXsgXlhvf7smMbcA0nxcUkNOnaE5svyB4KCOa5lS8EcHTtPUCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
+   ]
+  },
+  {
+   "sys": "aiocr-llm",
+   "env": "staging",
+   "remark": "aiocr-llm (staging)",
+   "publicKeys": [
+    "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAmwNY4zCDDsQtebmW4Hwkp/mo+XhFXw3uklfJqpE2E3C7+Gd0NKNE\n1lrJtUMCLtgXPJdzDVvJpifdnYPWU4QPeu9TT5fMZGqA1hhGWqRO5fG0U5dkBCbC\nDTS+J8/X6W7IF65kUbmJciuL590SdrPmbB/nCe8Taclup0JFXwqIgji3AA4OLDoM\nwV9CdbBZWnOZAgWXOq+X4kbQKhArum/pzuJhbwiit+BNXRuLHm6CH9E2a/2EH+CT\nQ4pYGIN0xPPmtvcS9nV4lOLydSlqbTCO3LfP9YZQDDGlq0/3IeRdBRxc6tCa4sNE\nNC2PUh17f+gTjd55CtWLv+czI3MJloKxDVoOIAWKhpcemViTYtrHJlXLwUSLw1Fb\ncDgboroXgnipjIYymUhsNbtlGqguHKmKo55vMbq8EhktMlyB1SAC1v9kn9bc+yNP\nQabBArMnp6xS71yM7+UkReLsJa3XAjTUKZnUJ1hAegh4+fyGqWjeK8X+U/S4wQop\nAgjKlE74s2OT9+L0ScnoPYf6A30wnFLDsH41KrM5KmLTOLrOa5p1iEjQvmSqrrco\n9bzXUWzlvp1n1OeGIhsAvXOC9kEzeFeJb7rVfqqH5d5n7B3fUR+ET0mW4pCvA8Z7\nI4GoZOvQP3mhRnuDN45kXKVNXM63Hau50A0q3DFwJNLrLX28WjNyaDsCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
+   ]
+  },
+  {
+   "sys": "aiocr-llm",
+   "env": "uat",
+   "remark": "aiocr-llm (UAT)",
+   "publicKeys": [
+    "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEA0EAyaeIhndsDUtRxHGWudDNK/4vNWibVkF7LWQ5uK57l2GV+6uj3\nL8jl0O/jMcpXtYb7GB2ER2rHpAgZ5rdmz/AVexdcqVirVbJWOwGFeV86N31pHsjm\nX/fE1CbZcOPlyeKM0HL3GL7OxIjgfE6LyiW9unu58vWJa9uU4ecT7u0mUEQcWyIe\nEbMYd8ayRVfZEPKoxoUE4BoYMHJrRYr9cdYWoJI0pGtUMLlMnP8qab5MdnkJp5Kz\nwszHMswLeX7HROPuNMUymfVRtcOV6Z/1xCA4JB0tzcvhoufHU6TIoO8RHh+g6Ut+\nOAw6PUm+7eyTPredb5g5AJ8Nn8zVQAtrLTczp7L5wp/Ms2syla575bTpgme0bctR\nXfJcK9fU9xRSVTyfUJWDBMyE0oJ6Y9YRCVH8eov+JAppY6aqxN50LXt1zLGSq+cj\nobxBjwezgtP6yvkyik/vZLA/BOXV6NqP1pRCITMaP4jdhKGppEQXiqb3GeCOj6wc\n5ynNh8DTjzHQG1LzoFPYhaZTAvfpYta3LCEw43myOWpKVmQM3F3VPtFKgsx651TF\nXCuW5q44mqTUdYKyd2/G9kn3R4gzookfRhzhMehRwaiFNuUeFTGkuBXunFMcMLse\n4xhpBb7YDOR5frjc5ylM8QqnBsD1jGeyfIj07Zw869iDUtfD6SETgfMCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
+   ]
+  },
+  {
+   "sys": "aiocr-web",
+   "env": "dev",
+   "remark": "aiocr-web (dev)",
+   "publicKeys": [
+    "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAy1B4ilPn2bJLx4mFsRa3Xf7543LExk8F7OA223l1t1eHmOEvTT90\nAX+8spIqEGWBVyG5MlZgd7hB6VFXAiEtcEiJg08pcfa1wt5b05WmdUFtCb+ve8hf\nx/WIK60+7sxSGieqygn1bnL2d4DdqS4FBDudzjNn+c46TEZbxVRrrvbgTmdddsaN\nc3Fjt+dgf4qRaOy8qaeY3BcZ/DxdoimDueUAnbUyZQ16G0mLBUEjqPw3usTvU80H\nSuvDHonNdPf4Iz3uR88KY/1Tmzrfapdb0swTfBlPssZxCiwulPgnIjRyg/OqnY0Y\noE9gr65kGpQlo7OYRSr91WSclxPInIxKid4CjoH9SDnSS0OiAb9+7UxynHH1tLqc\nRTsR/zFlETT0gHCGqqYT1N09q+qMpAyj9/3ToNsTjXu57knMt3XecGvDtPep5pjy\ns1tXb8ZN3liaDsT/ApMfmKAlre+weWOxDt0x0iZWKJZWFk7gLSdONzpSMC837Sfg\n99tjekekr1ybTfBqyM/WRKOCpI5x1Z0ypaTOTxfnJtjWlTytqnIxCG3E/sWhW4cj\nbgKHEwHx4gOTUlhCzocHZdiHB78RqVGeGKmf+MW+xMn4dv0LG/OPfk4NXB6TmJwG\nSCaeMpVkZYCSB2fADNhMPMGCwlpG0Zkluth20AttGsxiXF8Opvmc2dUCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
+   ]
+  },
+  {
+   "sys": "aiocr-web",
+   "env": "prod",
+   "remark": "aiocr-web (prod)",
+   "publicKeys": [
+    "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEA4Jy+6Amxy9Gahvj5CgOjiWkHCPAejVVCeGTjTIXXip7h4pE5C2GV\nMoav1CGLTP//IAHG70cYW5Wzug8UcERm2mCDGe52n6FY0xDcb4C7LGzlv36mncpx\nDBCsAJohYqX0VPF9zY3zcJMYt2YF8H3pFyl3c27CxudS1dWoR+ye1/QOvchP2l3W\n77P+GuTdjVgaLyJIQ5eQRbl74oVPkLqHgiBOZFkwpUUoFSQfmwsToYYf1sSMM4BX\nfluhVblbaB3mvIAQKPhAGDGSqT3T28vIMjuZimJpldrwj0meA7a5uWxhHlmlvngc\nn++GjWG4QbYBM7ncQ6foPt5/8p1JOSPsDCJ5sYWFVTdaP9/EuhsjbB2VlXXtEb3O\niAAkx8IY3HgmsjFL4tlyLZxRuvCblTQv7bt1EpvbQpAW2zmiWR0+SVRLDLWe4+U4\ncIoNrC8m0Moixw5qKT9WtfavPiZ91By+ks0POTEMNbi5n5f7mR8lZ1QpSkNrYsT1\nxBXwtMtlVqmKVdVWYJZOSop6s/fmm3wXGxYx048TXuiiJlin3TaG+NFlYqdNLHfE\nZNxzEbXCXivMIlVlFdbIuhwI9DYgtuRjfHqqEhML2z8Y/J5OubWwxknmRgZxm1v9\nLhOyPlpXkvtjWJsvzCst597M004t4hRKKGBNomNvI02U0Brl5iKZjp8CAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
+   ]
+  },
+  {
+   "sys": "aiocr-web",
+   "env": "staging",
+   "remark": "aiocr-web (staging)",
+   "publicKeys": [
+    "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAtKMNCcENKfumVWM9wswuE44CrRzzf6fk+wrzozHKsaV9w8LS+3lU\n92HnNSu/b4xzbMQcJoxs3PVSc3g8GQqs/2wQ+j5DAO1kbc+9u/m2xCAaKIQeRqhU\nEF/vzTceuPZtf7oAQIkY+nYQKapPT+HMNv0+2/SIfJUamWXiwt7DcnXRVtpl1Qx5\ndJME9OHIdZmwI6W+diTQtREJJ9Inv7aoKvwl0UjHWuc5adskyt4fO7RZUKj15x7L\ntNCClldJLZdshrrnRXHaB60A1a3RhtMBjD/mAlA3MrbKvYv2G7lH7Zafzmxc1Itn\nsEbsaR0frIJvHlNZCXaUDGxbuHFqQmCYWzSIBpUHfJ3ejkYDDJIZpFpT5wOQQrF4\nnCfCZLclTcx3dJAf2C9CTsQU1y5UvU7hR8oxzRt8HN1SeBdwhhpM7E4Z3MW6fgsE\nULgdeMWoj5ADSSTqppk77fXdyD1xmHdwsKqiBXeMTAEflAcwESMTDn5/fVpo7OjA\nKTKo5cU/I4gsf80FASoWuNneWi2dGZWp1+PB4yTqEN2tSJjfsgP2U5gxhJhWVi9a\n+RW8UgP0Wuo8HSzA3k50NYAMcwl9X/l2AqjsKSrCmkhHBiPy8TMlT/Qb+RC/MhJj\nGzxFVYVCrFh0GW3g3ZrtsRosZk92CrVcQl3sX0LZamp+bKtliEAb8zcCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
+   ]
+  },
+  {
+   "sys": "aiocr-web",
+   "env": "uat",
+   "remark": "aiocr-web (uat)",
+   "publicKeys": [
+    "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEA3OQyu9OrYKohz2AHApYhEgLtAA0ZMfjc8x1PaxSsdfL00BrOp98P\nVkhe6tpv78ILR5b7imVeSvdQYEjB1rMrNCcQD7Mpwt5rHPE9Z89wXKvSrq630YM5\ncawVkH3gv1gcoP3X1tOuu8EXMdseHQKHZTh3PPKC2yLIfWP4PI5EuOsarolzrrYx\nRFM/5TzNVBrQsxkTX9r+KVzVDEgry+SnpAusf0uTY9XH/rXRNaJszpCku78L0pzt\nYTl+78gsXalMsngDjiP/wJa+tewTFDaXfPQN1AuNagZ7ZiOphz1cgPnJf/08c8ur\nUF6u9cZhPa7x+ZETms3OvCc5JUV1dl4er1UnFb8h+Itjg5l80JFlPs7+/TebXUDk\n4nGAtaTk8KgBqOSk1//0EvqA4H6NXIB3NTM0QGLCThzvKVFzyTjL+moI9QK8sfKk\nyiEEVOav0Fln1QiRTQlnw1Sdj5Kg7L+ozaR9t4TzRV9DlW1FZ2utncQoS1o388Yn\nFWQWHGYNwq81513bV0NZl1fc00arNVWU4vfLJNe8WnrI9UwopQhoxu0JtkqdEF5y\nINuTH4Kvc/MyStS0bY7LLvEWp91gF0+ZUg2JvSSp9ZTpEU3Ya+q8SFy86Kg9JlxN\nA47D68+5T33uxXE+bcwwrWo9JVePKZqKOvRHtlZ9/8QxME8/fmm/8ssCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
+   ]
+  },
+  {
+   "sys": "cargoClip",
+   "env": "prod",
+   "remark": "cargoClip (prod)",
+   "publicKeys": [
+    "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEA1mzXbU5PVXqZU5KllT3fweXkL9s1DB2tI8cdxHdrMCHAqIscAsE9\n6dU+YGvDdc5JRpTaCPsTp4V5mjA+FoCPgZiqVDD1IVOUIqHEv0dxG7RNdudXd2Bu\ndAB0LH8aINkcszbUMp0H8q6t36kyYAb3DsMTwOYXBgWiNCcJHsvQMOwsdnXs1HGe\nT825S79Cv/gKnsbvCO4dWvJjaXxfeQncjcI7LZE8tqJHSh6GtS5JmbCZXWbmbFcu\n11EqwMI0tekT4dfUKcDlSMXf13zBYQlr3DL5sgsAaDfu3xOPe6bqVKikq+4DeUyc\nFPJxuejKYPoIx1JfoyoTXdtCOymFBiARREaM7wWGJapLRth0fMDE4p2n6TELQ99X\niOjplptMWhHUAJYVbbGdf2pvb+rP0ImBnUSUIisBpMhS0TaV08FiE2HtjyNTwYQJ\nmtFPOunXlOEcfDn6mKtdkxljE05XjPTMOGpu6pAOSSVe25DS4rq4QjZsxt9eWXwd\nB7RSb93JZmOEmLj4iLpotAc3Uv/QQrVCcScMm76itL77FYtQVu9IRQ4KOA6uGsqq\nnPcL07u3C1Lw/vbZ5XqZtf5t9iVLIQx735MKtg9hdfxNljbg/fqvPZ5azsMMM5Vz\n1XgrztcpBLiTwu8hBVjFrelrEJ12JFUTOX3iazCLgRRgljKsMSJhNwsCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
+   ]
+  },
+  {
+   "sys": "cargoClip",
+   "env": "staging",
+   "remark": "cargoClip (staging)",
+   "publicKeys": [
+    "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAtoFPKQ4KPO8qCGWHUn5LO3TpMDgEUBZSsZw36dUXm01EL+cUlhmp\n/eeItBKRuQYiBwrL7zy3GsQ7FEhdzUQ+fmCejyk3VjIDy00ceXyaSsB13tLyv6wP\n/oI+ijfQiXGD1Lj4nszu+WIQvu+HYGdElEpt1unnoMRvTQdGJ9U6S36BMlqFbENw\nt0vD76u68eUYBKCINUcDB71NY64KPv6M3+TFQi9ETQ3hYXYTg5Vxjt+OoRcNVt0L\nm15ZclrWObgmtCS0RRDizYtFcyjiOP6KMkJ9Mgsy2cYsLJSgCkirYLZu755a+iAY\n3ze4g+UPD4w0yaboheEt0Co+RbhgkBbJWibhE9Q9BSoM9yMJ0BuAS+BaAD5yeArx\nbbOMpD6ia2pNZ/HY9mfUHZCF0IWG8V+Zc8+3dri+l4ZutHt8WoqlKlR7F6vgr3XK\nHYReFVK6LtooqCqQoucbOeyIxtrXrG2M0PdPk3UmGUQTO/2ZdIJdEHALbQYWbD6Z\nAS53xn1HdIp3sglA7qPUlW5ekz54V7SeGrgk3bSucl7beepsFD4tZGz75jFto4H4\nBXnF2QoqKmbNo7aWr1Lf4U/O3VnXoMSF/kJ3Dvkilh1JeBoXx3S9QlKWPTuIoD8a\nQAj6WTnJvY0xsFuTRLaD0HNxsrdXwHh9wUlEVh/jCZqlPFKZZ5JB10UCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
+   ]
+  },
+  {
+   "sys": "cargoClip",
+   "env": "uat",
+   "remark": "cargoClip (uat)",
+   "publicKeys": [
+    "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAql4gu8fIJU3sxqOts/BF9nV4xvsD+WwR0iYs3gBmTVWj1I1C0XRy\np08Im8AtTxh+J27GbGiRPjZqKeJhhwAnsQudA2c4BLVZPf/UHSZMOD7gJ8owfXSX\n6Abro7bV1CQdFibn9EdwV/dTrQaQP+DZ+kIoVBl1nZMiCg0cPEUjp8KCxzqDMXAr\nJrI2AfV6/ksVHoCkYu3bwwt1n1eXvLl8YWdw3sWxPkUtNDQlTQgKP9FsUYHD409V\nH9SHL95TW1NTej4lmT4PEYOtnxmgxOfRAmdPQyYYiSO+2wQsPiJehh6/dIqSEtDp\nLJwDWvXISwBg48Y//9OF3Na48JOQNbbHhdBvQkZEliKtTKHk2puECjUlRm/cU/vU\nHwj0WVD4GReVR+YvcITpwuxFhEKxJTUOGtabYm8R6ZfaLzTSqcxCYnd1a7vRiln4\n40ra89CNT/artWuw6CPgQHRY4AH92XPWiLCXPW9/uYYZlcqQPk3ZiP0mwUCYpe/v\nDhlc+mA4v1sQ/A49KA0OZoDMLGO4P/nmj57WpXJryGZ8WxvsVdMcFs+hjkWHoA31\n8woOLcU4XefhNOrWZUZWFkFtt1jrt1Ji1ul5XX/q9nJDtFm3pymAWTgWrdMHwX5s\nJqbwxp9wWLzA25WxMAU8UyN5YShrXUyD+DYVH7eNPKdaETMgW1q43/MCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
+   ]
+  },
+  {
+   "sys": "paperweight",
+   "env": "dev",
+   "remark": "Paperless DMS (dev)",
+   "publicKeys": [
+    "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAvtdfyXnSQ5LXQ+Z4ZPxkWHzBVERg5iEZOqlegL7ks/Fp+Qbyha1y\ntoBJYINA7hBWo01HDikfXmQSTsSt7e2AVqY9vIB65MgI6IfriYgqWLmJDPb8xmtb\n6KfjYIKQvgwx7hu4hR61nkA/7iQ6yCW9oKKJzEDqsZS2/6OiW8jkm2hNhGXOaFvR\n7iQieemlsK2rM6/U1Q8IOqWmh4s5k1N/Qed4HhRmhp6zgdkpChg2n6WzOmXjOkb0\nuXJMsDf4470uw5w8orXnujpcimA+GwjpxHBO4yUuW2FWTjRCcBvUJbR8ou4wKLeb\nxbAJ8DTRI3VmD5Y1XfHgrE/j6DFfT9Oe7I1kxoD+Nx7Vli3pRKq9BXYIsOIsCch9\nn1XT4p3xyErAJJaJe4iymyXiyedA8wawg3zWmwKGCkXzf/rZHNdrCJpXzbVDna0v\n+4aentIYg+HVu7paKuL0NRZPY9Rq2iqazSM+wbt0X0+s6hnM4TO/4HfwIQSLFC3D\nTPf79CAQ3+MWFrpNZSKGbiNSkwXqz0Yunnt07J7rpHtkD7H4oyCcQAcpJ8jgKB/K\nsd8Y6PwK27nTcVkFlNJ3ncWFUTs/z8EoLqzjOtp4M8B7v1w2hj+UVqMIOv8vP3kf\n3j5qUhZ/vqCe1izrhOi0lBYcMdFxHlxtFd9jc8nmnYO96ww78VAQQmMCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
+   ]
+  },
+  {
+   "sys": "paperweight",
+   "env": "staging",
+   "remark": "Paperless DMS (staging swivel)",
+   "publicKeys": [
+    "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEA1RH60SoanvzFdkB6F7NClzz0nVYLA0/UhjVxpKWxJv03BZnCmYvr\neUXAL1I4xxecoD9JQLM1GDJCSuRwkVZKds246OHLn84mAmeaMTuYPIQY7eHhIdiv\nlYoIjdU4nM/jzxC/sH7t2k/ptsnatqwaPxvMKfyCCOR2Ou9jMy1O8hiP2fTAZSkP\nvgwNGuagM/nsoF8ZL+8HO73BiAkY1FoXpc6704UbN/F8Z8RV+rH57dpB6wYq6khc\neTsY09l9hOwYDHEKPFlX0cTswXa/bIMGy2MgXVy4Pv9V1vOecA45DgnPvgQPAXEm\nBkY6g9Sj8JmaHY2zJXSEZBTsbd2MyjItaW4UVE5LM3X5a38oiBwg525mGyeIv5Cj\nG0gCtJkbufKWg05gCQs7rkzq7Zhon1X8fzWh67AzFWDYl5GI+3+iHZYPdFmFPIkY\nlZjuVaTnam28BYxNF2Ix4gX6gjMaseKe6LILbjw5gxs2Xbs/28OKUWHiTdlMtr4F\na6fGfExFJe1tsutkrpItsr7vWwec0jjGCcFkxbSwrTyVgRFBv9UjtrwM9k75gWWU\n/OydAcI7RbfVrvK1HSP2fOGbuj6/zH/luafXAQ8eph+TCvyf38M4B9yg3XWtPrc4\nU8eMgkP7Yp5QkA9la9OLToUqdHqBb2CRpoZbnLlZOLMEPfK88gPGyscCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
+   ]
+  },
+  {
+   "sys": "swivelCommonTest",
+   "env": "prod",
+   "remark": "Swivel Common Library Test Key (prod)",
+   "publicKeys": [
+    "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEA9vAYk/oG9cZeOmOP4S0hZc4wPqD54Ca7F5ecRGRtbBDx013ak2F+\nx274RYaJ4/5ju2xZ44U10amWvIwphgyywtD8pizjXDSq5d3Im6D70BtXu1j1YrmO\naV+Vv0AiD3WQWi01BXdIgp8rdPI0n0BcWKxIWdBJb1dkhPWbRkfRJRXKqSk8ynC0\nWoalqVYvlpbUs8LDjPwA1DEw8y5Ll8ghHncFYXtYEx2oQmraaXWvmWs2oW9u0tkX\n8qJm4X4IfjSDtaou4QIbbe2ZgI/wSBaJ5MmakOwryrPnd1hYOZywbcrc5hkc7492\n4SgazQtiAODB7RM+CSSKb3zZTROY4Af489SEH0ZQR/SZvyMevNzkz5dKn3QNphML\npVJbRc4cWw1BqbwcWYQTrhAXwIzNphDPSyVFRSDBcEevw1zmoITxcsuXRgMmdoV4\nF/9FI1JZZIE+Pvol8MxbTqL3a6WTqYXJKaw5LJEQzuvl7tz20vHhi7J9ya7Ze04C\nVL2DtcYlvwmsfic1iWqvyBZ+ptO+rhfFlZMI/eTmCudiAcueaRbwECLqYd35W+y/\nrflnoHZnMVgwEVgzCIcdDHjfKRBK0Z/toNLCwL+e0xdHKNL4o21d+cx4+/f0IQYN\n6/CxAvk4neCnM4Qo9v1gPHFSU9z+fZ0b9jtlFLUWUkEqMMAUYO6Ls1sCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
+   ]
+  },
+  {
+   "sys": "swivelCommonTest",
+   "env": "staging",
+   "remark": "Swivel Common Library Test Key (staging)",
+   "publicKeys": [
+    "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAuP3XiB4uAiKghYb36ZyDwu8X7lXKWjN7tOZL1AgK5W8D6fLMwc60\nQVstecdQBEcFl0Jz+x9f3LI5qZegInPT+vS5eDCHvVFMNLahxmeyXQ/VODHJyoHL\nn/POXc9Zwxs3izvT0q6laS6pmjOsXTHiErmmOEYejPHyVWe5Do6mPmEzukWaWbNt\nFrdempZi8etVgm7R0mfj7yqYuWQDvBbSk7ZC8qU1JnN1XNSl/hEMs3HGhAH6wTTV\n4TwRAP8lOmVq+yix6N7knLXUmx456j50tyEdRwBW+aXXgDGZ3SWEeZ2Pu3nvRelI\nwpCtTi/6Lbh0dlH6ixZp6wZqszLTyxPlsXTQ5vUIp9uejRaXs9xgELGlmGwvDzIQ\negb5hpG+7p/mi9T4Ti1JxX3svb+aHM8bD2NAem9+2gZMfVda+hN82dtZ2NM4XssX\nPyzZnFZIHKsmaLxWYBpbHt9oK17DQ/urxwM2e17YT3YWG9WDGF9mHW3QcXDLBkk9\nVBj/3//TFrwL2NFIiMHIyCDnSsygnHjca9QJzvwZVEZ20asDskkF9/UBBsxXYy/Y\nMPZRW0s/wqCtph3qXhJpACPbmr1HbENaTS0KaREPVsJKB9PVhKuXJN6tdkeati6M\nqyXrLCXY9EWLhfC793OF2J7VrTqbXdRUcsR2+iAlRjMQvIZXJLACvikCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n",
+    "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEA9WILAicy3m0oksWxB5+kPhy7GQVy91hRIngReUdd4rC1kyxRR/qC\nlZC993KP2Ziy3m9BfBBddDMohEKHz5ioPcEhzbGZrgDnhOeMtoQMgdA0fQ8asQxU\ne2z/RiBV6Muyxfn1NI8G2R6l3WTTJ1L0O5GUjETN2o+X1D/fFEz/7qa5XE282p89\nKEXNB9K1xFk60PTnExLNQ4nzrIt9dvwlRutpVbpgM9dFLpnPCOT2dUokBzsne08x\nO/a2twwi+tuB0TUEZ+8RNg1D716dF/1Lv55CHjq9S/LX53HlsfMbXlcL0au3OAUi\nkFckbN/6qgk5nNTJUplOzmQ7/vkQpVTpEO81zprsWLfczmZ+2CFEaCj/FzLPg7X/\nvInXCtGixLRo70n4Mc4fYPYhOYfob15scuC2FLVS8Nhc0d3Jp58LXWwBALJIJPWW\nX7AvW53C9iPUlxVLq8lPCwTAQ2i2Wl5dp38tw1C/zxEUiGhZII7OFQr6KvBvgkw1\nm8MjcoHMMZQM2WrbRsKwZHwm4FRMXbFVaURv2m9Yn5xjnBQUftMURVurNeydLK5Y\nefb208pbL0LWVrUPNDA0zTyDvlT9ZsWHnQ0w3zOn7pf78RWsQO52LPu+akQkw0q3\nkQdBbEETu/A8e6FPRqUQdjf0D4lQGW3maXM5JqQJuUwXSkWrme5YrUUCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n",
+    "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAwF12mLDEQaSLljX1BfhEvzBGilZbdgjczK2/mm9uxinpsTogPYil\nuPcksufT8sk2p/o6KQIYMJgAefxdiW0IJ6ZC8M5reqfRA1uvlD51KAw83uUthSoO\nh+37mQqzMiEojtgzvbIHSfL6gZC+E6atJqEIj6eHeWmgVXXMWPCL7du7Tnk7kWRN\n3HK/+g5XsmX/m95BRBhO2VUz8QODAPAr7IrVqoQPongnRNvYSep6OjDWNu3TugZS\n3hZWI+tofkeFXH84rH7ItghVUKa3NBbw/Cg0BXygsxiDPrEeC3NbtAhZnCXZlMtm\nLBKVgDhrIEulYKXcaL1Y44AK/iDyklYh+pKylXR+dfQ95bXJqEs2109Tkddic3Vo\nReGmZOPPc3ljNvXd9cGFFS8e0DsQLZvvZgMDIQJaDeY5t03COIPSW+eTzSTSw6wk\nIocI7A6zoMjmUWv6+cxIZg4MBMxnipm6lhPRsjCAqAtpf8toL00IRyM3sk0JA4Y4\n7BMX9mgayoditCAKHOazXwZHaOBl2GlLfPBw1s4nMSJrIK4ObDt8WleP38xwojWc\n7b6s1gmwPzYZ/2THBjTietrSOAEQYH2geG4L2eCLj8kEgYBWITwlh59DTWeS8SAu\nbiDVe4liC2WnLKo+O3eTqYGyefH94QFOZwWbqQT/8b6EaJk7J+L5HFUCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
+   ]
+  },
+  {
+   "sys": "swivelCommonTest",
+   "env": "uat",
+   "remark": "Swivel Common Library Test Key (UAT)",
+   "publicKeys": [
+    "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEA7IfbKpfOKxNj+SFIUmDmXLN9lMsVjy0KTJUghPshuTrLnKxGZ4OM\nBSyzlDxyi9Pxv6upXO/ZHFi8yvdRIFSxuGVpmPc0PBt9VRRDgRrglGKZoFD8EQzD\n1D+qrxWjEE5ZDwgIuBEycv0I4WfaCUfu53Vbq+Rfgx8AU4IdpAvw3+loP2tYazjl\nQAqaycj3KAhTc1sRt8QcmCgwX5F1c51nEdyYYvYnVEGY0lkt7NBrqGEgesWv0dy3\npvqnkLKGuSyV5E++zgje2lqN9Eygp+ZlFf05GePsyWIk2LAS2UIcn2XA/P78tHoB\nmDzDEo+lOUVBDo/nbbk16SSKW9LNyTrQjIWhJBBjF32BHBRiL16e27s2VQEdJZwq\nfFYISPjNUAhR4dhXw0nQZhRHhVkoVwQZgtnQ2FzTXrouW+xDUQ3LCOJhOKHX/cI+\nlvkOcZCEudbqrPJUaNm50bjXau6RAIiqjICQzn2gEhwUDHYT7SRGbQrrzCjKtaAd\n1m4f88SZgku7hUQM4wxS03N72YV0xDwwlqotGL9Cz6At+P7lx2ozS7K2BSA7lhP5\n8H6TDEdzlIgwj7VLer6aPiSy/h0H9ZhAbB1f78GHTUQJQ8abe59vnBBttNRK3d/B\nAlGq/ikRoKkouRTqWh+u6EAJ49vcBXer21YOuRFm5XRTJOA0l7Kr+z0CAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
+   ]
+  }
+ ],
+ "checksum": "e4521b85b30a7005ebcfa01e0dc0e2554bd96b51c110f9c270b4c7bfbb93a250"
 }
