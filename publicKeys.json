@@ -1,7 +1,7 @@
 {
  "docType": "publicKeysRegistry.v1",
- "v": 30,
- "createDt": "2025-08-14T15:32:37",
+ "v": 31,
+ "createDt": "2025-09-04T15:51:02",
  "registry": [
   {
    "sys": "aiocr-llm",
@@ -85,8 +85,16 @@
   },
   {
    "sys": "paperweight",
+   "env": "demo",
+   "remark": "Swivel iDM (Demo)",
+   "publicKeys": [
+    "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAokBm//LHErnsUv/Akfam0KoIGEITd2ULtimPqnH73BQLhTBe5v/e\nIYF8AcuKDHH+G59/8+p5odRo23i6cGB/Jeo05ogIAVfESKNqd4V6xaV7sIXQjmq8\nLeg/ityhg2BxP/npvZ3/rw9q+DhBduwa3imiRAQsEKPPv7KF6u/bld6n0zhk5rpK\nMF4DOPMB4a2dF/U2GrwehWv3hgYorTSFgYkhHmv2HOFBt7qvop/hahGwN9V4h+0w\nvU7CWWaosP7RcR9k4gzbe3Hi6rUzWr9bsNe+uF97QUCpbU8fyRPUOO1EkSR1ZElx\nozalRcOHGfI7W3aIfu/iFUqQUTY48uQb9tuo7w3Xtgm1EUXsnLHbMafPSUPwlkgn\nr9t5eY58rgWkVbxgOWlWZmKCHwWymnoPtbOzSq0/qmOfkjghaCcuttE8CVxxJ0uO\nKteJe2np2mP7zjcCibUGDn/yb+8Z5sGCGLdGaTyFD7DjbfQ5rhiQ2e/at/u7NdKp\ncXrwQx7HxhJNZDSPCMbaCJKcEdZMMVOhTIDc50t0Wh3N2ssuqdjaB4wTVIOxpU2j\nyKCfuxrJlAKaJak/ICTYaKwFt9c36XsE7u4RCyUskyQxYI1eTYfYpUP4SFKLw+Iu\nCmFWsxoM7n8ThFQYfkyqdycr4xhXNTfrjqQTFHLCtBm7qsMTTLdXX/0CAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
+   ]
+  },
+  {
+   "sys": "paperweight",
    "env": "dev",
-   "remark": "Paperless DMS (dev)",
+   "remark": "Swivel iDM (Development)",
    "publicKeys": [
     "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEAvtdfyXnSQ5LXQ+Z4ZPxkWHzBVERg5iEZOqlegL7ks/Fp+Qbyha1y\ntoBJYINA7hBWo01HDikfXmQSTsSt7e2AVqY9vIB65MgI6IfriYgqWLmJDPb8xmtb\n6KfjYIKQvgwx7hu4hR61nkA/7iQ6yCW9oKKJzEDqsZS2/6OiW8jkm2hNhGXOaFvR\n7iQieemlsK2rM6/U1Q8IOqWmh4s5k1N/Qed4HhRmhp6zgdkpChg2n6WzOmXjOkb0\nuXJMsDf4470uw5w8orXnujpcimA+GwjpxHBO4yUuW2FWTjRCcBvUJbR8ou4wKLeb\nxbAJ8DTRI3VmD5Y1XfHgrE/j6DFfT9Oe7I1kxoD+Nx7Vli3pRKq9BXYIsOIsCch9\nn1XT4p3xyErAJJaJe4iymyXiyedA8wawg3zWmwKGCkXzf/rZHNdrCJpXzbVDna0v\n+4aentIYg+HVu7paKuL0NRZPY9Rq2iqazSM+wbt0X0+s6hnM4TO/4HfwIQSLFC3D\nTPf79CAQ3+MWFrpNZSKGbiNSkwXqz0Yunnt07J7rpHtkD7H4oyCcQAcpJ8jgKB/K\nsd8Y6PwK27nTcVkFlNJ3ncWFUTs/z8EoLqzjOtp4M8B7v1w2hj+UVqMIOv8vP3kf\n3j5qUhZ/vqCe1izrhOi0lBYcMdFxHlxtFd9jc8nmnYO96ww78VAQQmMCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
    ]
@@ -94,7 +102,7 @@
   {
    "sys": "paperweight",
    "env": "staging",
-   "remark": "Paperless DMS (staging swivel)",
+   "remark": "Swivel iDM (Staging)",
    "publicKeys": [
     "-----BEGIN RSA PUBLIC KEY-----\nMIICCgKCAgEA1RH60SoanvzFdkB6F7NClzz0nVYLA0/UhjVxpKWxJv03BZnCmYvr\neUXAL1I4xxecoD9JQLM1GDJCSuRwkVZKds246OHLn84mAmeaMTuYPIQY7eHhIdiv\nlYoIjdU4nM/jzxC/sH7t2k/ptsnatqwaPxvMKfyCCOR2Ou9jMy1O8hiP2fTAZSkP\nvgwNGuagM/nsoF8ZL+8HO73BiAkY1FoXpc6704UbN/F8Z8RV+rH57dpB6wYq6khc\neTsY09l9hOwYDHEKPFlX0cTswXa/bIMGy2MgXVy4Pv9V1vOecA45DgnPvgQPAXEm\nBkY6g9Sj8JmaHY2zJXSEZBTsbd2MyjItaW4UVE5LM3X5a38oiBwg525mGyeIv5Cj\nG0gCtJkbufKWg05gCQs7rkzq7Zhon1X8fzWh67AzFWDYl5GI+3+iHZYPdFmFPIkY\nlZjuVaTnam28BYxNF2Ix4gX6gjMaseKe6LILbjw5gxs2Xbs/28OKUWHiTdlMtr4F\na6fGfExFJe1tsutkrpItsr7vWwec0jjGCcFkxbSwrTyVgRFBv9UjtrwM9k75gWWU\n/OydAcI7RbfVrvK1HSP2fOGbuj6/zH/luafXAQ8eph+TCvyf38M4B9yg3XWtPrc4\nU8eMgkP7Yp5QkA9la9OLToUqdHqBb2CRpoZbnLlZOLMEPfK88gPGyscCAwEAAQ==\n-----END RSA PUBLIC KEY-----\n"
    ]
@@ -126,5 +134,5 @@
    ]
   }
  ],
- "checksum": "e4521b85b30a7005ebcfa01e0dc0e2554bd96b51c110f9c270b4c7bfbb93a250"
+ "checksum": "81b4966f2b4452d3e10f6450dfc2617b47d945d5cf1af01f2d695cd17ca46c72"
 }
